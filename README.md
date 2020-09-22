@@ -38,7 +38,6 @@
 ### Spotify Playing 🎧
 [<img src="https://spotify.andrewdarmond.vercel.app/api/spotify" alt="Andrew D'Armond Spotify Playing" width="350" />]
 
-Trying this
 
 
 
