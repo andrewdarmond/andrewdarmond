@@ -1,4 +1,4 @@
-### Hi there, I'm Andrew D'Armond 👋
+### What's Up, I'm [Andrew D'Armond 👋
 
 [![Website](https://img.shields.io/website?label=andrewdarmond.com&style=for-the-badge&url=https%3A%2F%2Fandrewdarmond.com)](https://andrewdarmond.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/andrewdarmond?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
@@ -16,6 +16,7 @@
 [<img align="left" alt="andrewdarmond | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="andrewdarmond | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="andrewwdarmond| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="andrewwdarmond| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 <br />
 
@@ -34,9 +35,14 @@
 <br />
 <br />
 
+### 📕 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://www.andrewdarmond.com
 [twitter]: https://twitter.com/andrewdarmond
 [instagram]: https://instagram.com/andrewwdarmond
 [linkedin]: https://linkedin.com/in/andrewdarmond
+[facebook]:https://www.facebook.com/andrew.darmond
