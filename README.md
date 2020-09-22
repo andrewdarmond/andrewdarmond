@@ -37,7 +37,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-readme.andrewdarmond.vercel.vercel.app/api/spotify)](https://open.spotify.com/user/1258141256)
+[![Spotify](https://https://spotify-readme.andrewdarmond.vercel.vercel.app/api/spotify)](https://open.spotify.com/user/1258141256)
 
 [website]: https://www.andrewdarmond.com
 [twitter]: https://twitter.com/andrewdarmond
