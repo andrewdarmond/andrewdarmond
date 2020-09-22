@@ -11,6 +11,10 @@
 
 # 📔 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Apple vs PC](https://dev.to/andrewdarmond/apple-vs-pc-4fon)
+- [Travel Shiny App](https://dev.to/andrewdarmond/travel-shiny-app-4gp1)
+- [NCAA Basketball Analysis](https://dev.to/andrewdarmond/ncaa-basketball-analysis-1n0l)
+- [Website](https://dev.to/andrewdarmond/website-1g5p)
 <!-- BLOG-POST-LIST:END -->
 
 
