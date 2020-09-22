@@ -35,9 +35,8 @@
 <br />
 <br />
 
-### Spotify  🎧
 
-[![Spotify](https://spotify-readme-git-master.andrewdarmond.vercel.app/api/spotify)]
+
 
 
 
