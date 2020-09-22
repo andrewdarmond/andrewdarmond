@@ -1,26 +1,33 @@
 ### What's Up, I'm Andrew D'Armond 👋
 
 [![Website](https://img.shields.io/website?label=andrewdarmond.com&style=for-the-badge&url=https%3A%2F%2Fandrewdarmond.com)](https://andrewdarmond.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/andrewdarmond?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 
 ## I'm a Data Science Enthusiast, Sports Fanatic, Music Connoisseur, and Double Masters Recipient!
 
 - 👨‍💻 I'm currently trying to find a full time positon in data science 
 - 🥅 2020 Goals: Looking to build up my online presences
-- ⚡ Fun fact: I have been to over 20 countries
+- 🌎 Fun fact: I have been to over 20 countries
+- 🤠 From Houston, TX
 
+### My Work Station
+<img src="https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 
-### Connect with me:
+### Packages I Use:
+<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
 
-[<img align="left" alt="andrewdarmond.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="andrewdarmond | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="andrewdarmond | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="andrewwdarmond | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="andrewwdarmond | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+### Database & Cloud 
+<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>
 
-<br />
+### Hosting: 
+<img src="https://img.shields.io/badge/vercel%20-%23000000.svg?&style=for-the-badge&logo=vercel&logoColor=white"/>
 
-### Languages and Tools:
+### Languages:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/r/r.png" />][website]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
@@ -35,10 +42,22 @@
 <br />
 <br />
 
-### Spotify Playing 🎧
-[<img src="https://spotify-readme.andrewdarmond.vercel.app/api/spotify" alt="Andrew D'Armond Spotify Playing" width="350" />]
+### Message me:
+<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white" />
+<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />
 
-[![Spotify](https://spotify-readme.andrewdarmond.vercel.app/api/spotify)]
+### Connect with me:
+<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+
+### 🎮
+<img src="https://img.shields.io/badge/xbox-%23107C10.svg?&style=for-the-badge&logo=xbox&logoColor=white" />
+
+
 
 
 
