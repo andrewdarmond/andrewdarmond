@@ -52,7 +52,7 @@
 
 <hr>
 
-<h2  align="center"> 💬 Connect with me </h2>
+<h2  align="center"> 📲 Connect with me </h2>
 <p align="center">
     <a target="_blank"href="https://linkedin.com/in/andrewdarmond"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a target="_blank"href="https://www.facebook.com/andrew.darmond"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,8 +75,9 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
 
+<hr>
 <h2  align="center">💻 Check Out My Repos ⬇️ </h2>
-
+<hr>
 
 
 [website]: https://www.andrewdarmond.com
