@@ -10,6 +10,8 @@
 - 🤠 From Houston, TX
 
 
+<a href="andrewdarmond.com"><img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="280" height="auto" /></a>
+
 <hr>
 
 <h2 align="center"> 👨‍💻 My Work Station </h2>
