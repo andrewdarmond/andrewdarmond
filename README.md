@@ -36,9 +36,9 @@
 <br />
 
 ### Spotify Playing 🎧
-[<img src="https://spotify.andrewdarmond.vercel.app/api/spotify" alt="Andrew D'Armond Spotify Playing" width="350" />]
+[<img src="https://spotify-readme.andrewdarmond.vercel.app/api/spotify" alt="Andrew D'Armond Spotify Playing" width="350" />]
 
-
+[![Spotify](https://spotify-readme.andrewdarmond.vercel.app/api/spotify)]
 
 
 
