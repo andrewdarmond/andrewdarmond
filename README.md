@@ -39,7 +39,7 @@
   <img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 
-<h2 align="center"> ☁️ Database & Cloud </h2>
+<h2 align="center"> Languagues </h2>
 <p align="center" align='right'>
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
 [<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/r/r.png" />][website]
