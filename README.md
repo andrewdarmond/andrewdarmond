@@ -35,7 +35,7 @@
 <br />
 <br />
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://spotify-readme.andrewdarmond.vercel.app)](https://open.spotify.com/user/1258141256)
 
 [website]: https://www.andrewdarmond.com
 [twitter]: https://twitter.com/andrewdarmond
