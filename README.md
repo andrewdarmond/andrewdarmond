@@ -37,7 +37,9 @@
 
 ### Spotify  🎧
 
-[<img src="https://spotify-readme.andrewdarmond.vercel.app/api/spotify-playing" alt="Andrew D'Armond Spotify Playing" width="350" />](https://open.spotify.com/user/1258141256)
+[![Spotify](https://spotify-readme-git-master.andrewdarmond.vercel.app/api/spotify)]
+
+
 
 
 [website]: https://www.andrewdarmond.com
