@@ -39,7 +39,7 @@
 
 [![Spotify](https://https://spotify-readme.andrewdarmond.vercel.vercel.app/api/spotify)](https://open.spotify.com/user/1258141256)
 
-[<img src="https://spotify-readme.andrewdarmond.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/1258141256)
+[<img src="https://spotify-readme.andrewdarmond.vercel.app/api/spotify-playing" alt="Andrew D'Armond Spotify Playing" width="350" />](https://open.spotify.com/user/1258141256)
 
 
 [website]: https://www.andrewdarmond.com
