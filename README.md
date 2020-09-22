@@ -16,6 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/r-Studio%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
 
@@ -53,10 +54,10 @@
 
 <h2  align="center"> 💬 Connect with me </h2>
 <p align="center">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://linkedin.com/in/andrewdarmond"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://www.facebook.com/andrew.darmond"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://instagram.com/andrewwdarmond"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a target="_blank"href="https://twitter.com/andrewdarmond"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr> 
@@ -79,7 +80,8 @@
 
 
 [website]: https://www.andrewdarmond.com
-[twitter]: https://twitter.com/andrewdarmond
-[instagram]: https://instagram.com/andrewwdarmond
-[linkedin]: https://linkedin.com/in/andrewdarmond
-[facebook]:https://www.facebook.com/andrew.darmond
+
+
+
+
+
