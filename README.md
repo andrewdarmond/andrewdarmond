@@ -9,6 +9,9 @@
 - 🌎 Fun fact: I have been to over 20 countries
 - 🤠 From Houston, TX
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <a href="andrewdarmond.com"><img src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif" width="280" height="auto" /></a>
 
