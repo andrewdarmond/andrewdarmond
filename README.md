@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/apple-macbook%20pro%202016-%23999999.svg?&style=for-the-badge&logo=apple&logoColor=white" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r-studio&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white"/>&nbsp;&nbsp;&nbsp;
 </p>
 <p align="center">
 
@@ -46,8 +46,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/messenger-%2300B2FF.svg?&style=for-the-badge&logo=messenger&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:awdarmond@gmail.com?subject=Hello%20Andrew,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:adarmond2018@student.hult.edu?subject=Hello%20Andrew,%20From%20Github"><img src="https://img.shields.io/badge/Microsoft%20Outlook-0078D4?logo=microsoft-outlook&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
