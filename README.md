@@ -4,8 +4,8 @@
 
 ## I'm a Data Science Enthusiast, Sports Fanatic, Music Connoisseur, and Double Masters Recipient!
 
-- 👨‍💻 I'm currently trying to find a full time positon in data science 
-- 🥅 2020 Goals: Looking to build up my online presences
+- 👨‍💻 Data Analyst @ Wynnbet 
+- 🥅 2022 & Beyond Goals: Looking to build up my online presences
 - 🌎 Fun fact: I have been to over 20 countries
 - 🤠 From Houston, TX
 
